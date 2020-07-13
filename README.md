@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Software Engineer from sunny Lisbon, Portugal.
+
+🐱  I'm the creator of the [http.cat API](https://http.cat).
+
+👨‍💻  Currently working at [StudentFinance](https://studentfinance.com).
+
+🕰 Previously at [YLD](https://github.com/yldio), [Talkdesk](https://github.com/talkdesk), [SAPO](https://github.com/sapo) and others...
+
 <!--
 **rogeriopvl/rogeriopvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
