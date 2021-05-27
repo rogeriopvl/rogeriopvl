@@ -4,7 +4,7 @@ I'm a Software Engineer from sunny Lisbon, Portugal.
 
 🐱 &nbsp; I'm the creator of the [http.cat API](https://http.cat).
 
-👨‍💻  &nbsp; Currently working at [StudentFinance](https://studentfinance.com).
+👨‍💻  &nbsp; Currently building [StudentFinance](https://studentfinance.com) from scratch.
 
 🕰 &nbsp; Previously at [YLD](https://github.com/yldio), [Talkdesk](https://github.com/talkdesk), [SAPO](https://github.com/sapo) and others...
 
